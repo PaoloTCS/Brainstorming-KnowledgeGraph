@@ -1,5 +1,7 @@
 from typing import Dict
-from .knowledge_graph import KnowledgeGraph
+# from .knowledge_graph import KnowledgeGraph
+# from knowledge_graph import KnowledgeGraph
+
 
 class GraphManager:
     def __init__(self, convergence_threshold: float):
